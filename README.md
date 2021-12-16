@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ./create_agg_hist_data_ws.py
 
-5)A tradeblock_data.py DB file will be created with the following tables:
+5)A tradeblock_data.db file will be created with the following tables:
 a)data_diff_log-for storing deltas
 b)history_trade- For aggregated data and open Interest at each interval
 c)trade-for storing trade executions

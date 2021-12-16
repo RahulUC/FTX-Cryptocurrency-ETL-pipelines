@@ -1,6 +1,8 @@
 # FTX-Cryptocurrency-ETL-pipelines
 Using REST API and Websocket to store crypto trade executions and per minute,hour and day aggregated data with data validation and logs
+
 To run the code:-
+
 1)To install all the required libraries.
 
 pip install -r requirements.txt
